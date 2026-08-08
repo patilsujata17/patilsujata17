@@ -10,9 +10,6 @@
 <a href="www.linkedin.com/in/sujata-patil-0a02363a2">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/patilsujata17">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <br><br>
 </div>
