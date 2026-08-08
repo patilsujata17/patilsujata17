@@ -13,30 +13,60 @@
 <br><br>
 </div>
 ##  Hi 👋, I'm Sujata Patil
-```yaml
-Name: Sujata Patil
-Role: DevOps Engineer
-Experience: 6 Months Internship
+🚀 DevOps Engineer with **6 months of internship experience**.
 
-Focus:
-  - Cloud Infrastructure
-  - CI/CD Automation
-  - Docker & Kubernetes
-  - Infrastructure as Code
-  - DevSecOps
-  - Monitoring & Observability
+☁️ AWS | 🐳 Docker | ☸️ Kubernetes  
+🏗️ Terraform | 🔄 Jenkins | ⚙️ GitHub Actions  
+🤖 Ansible | 📊 Prometheus | 📈 Grafana  
+🔐 SonarQube | 🛡️ Snyk | 🐧 Linux
 
-Currently Learning:
-  - Kubernetes
-  - AWS Architecture
-  - Terraform
-  - DevSecOps
+---
 
-Goal:
-  Build reliable, scalable and automated infrastructure.
+## 🚀 Featured Projects
 
-Mindset:
-  "Automate it. Deploy it. Monitor it. Improve it."
+### ☸️ DevOps CI/CD Pipeline
+**Docker • Kubernetes • Jenkins • GitHub Actions • Terraform • AWS**
+
+- 🐳 Containerized 5 microservices
+- ☸️ Kubernetes + Helm deployments
+- 🔄 Automated CI/CD pipeline
+- 🏗️ Terraform + Ansible automation
+- 📊 Prometheus + Grafana monitoring
+- 🔐 SonarQube + Snyk security
+
+### 🎓 AI Student Achievement System
+**Java • Spring Boot • MySQL • Docker**
+
+- 🔌 10+ REST APIs
+- 🐳 Dockerized application
+- 🗄️ MySQL optimization
+- ⚡ 40% faster data retrieval
+
+---
+
+## 🌱 Currently Learning
+
+☸️ Kubernetes • ☁️ AWS • 🏗️ Terraform • 🔐 DevSecOps
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=patilsujata17&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build • Automate • Deploy • Monitor
+
+⭐ Thanks for visiting!
+
+</div>
 <!--
 **patilsujata17/patilsujata17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
