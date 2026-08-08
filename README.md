@@ -6,8 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%F0%9F%9A%80;AWS+Cloud+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+DevSecOps;Building+%E2%80%A2+Automating+%E2%80%A2+Deploying+%E2%80%A2+Monitoring" />
 <br>
-<a href="www.linkedin.com/in/sujata-patil-0a02363a2">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sujata-patil-0a02363a2/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
@@ -72,18 +72,7 @@
 
 </div>
 
----
-
-## 📫 Let's Connect
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/sujata-patil-0a02363a2/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
 ### 🌟 Thanks for visiting my profile!
 
 ⭐ **Feel free to explore my repositories.**
