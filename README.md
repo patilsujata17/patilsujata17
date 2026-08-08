@@ -43,18 +43,69 @@
 - ⚡ 40% faster data retrieval
 
 ---
+---
+
+## 📊 GitHub Journey
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=patilsujata17&show_icons=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&border_color=334155" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilsujata17&layout=compact&theme=transparent&title_color=38BDF8&text_color=CBD5E1&border_color=334155" height="170"/>
+
+</div>
+
+---
 
 ## 🌱 Currently Learning
 
-☸️ Kubernetes • ☁️ AWS • 🏗️ Terraform • 🔐 DevSecOps
+<div align="center">
+
+☸️ **Kubernetes** &nbsp; • &nbsp;
+☁️ **AWS** &nbsp; • &nbsp;
+🏗️ **Terraform** &nbsp; • &nbsp;
+🔐 **DevSecOps**
+
+📊 **Monitoring** &nbsp; • &nbsp;
+🚀 **CI/CD** &nbsp; • &nbsp;
+🤖 **Automation**
+
+</div>
 
 ---
 
-## 📊 GitHub
+## 💡 DevOps Mindset
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patilsujata17&show_icons=true&theme=tokyonight&hide_border=true" />
+> ☁️ **Build** → 🤖 **Automate** → 🐳 **Containerize**  
+> ☸️ **Deploy** → 📊 **Monitor** → 🔐 **Secure**
+
+### 🚀 "Automate what you can. Improve what you build."
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sujata-patil-0a02363a2/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🌟 Thanks for visiting my profile!
+
+⭐ **Feel free to explore my repositories.**
 
 </div>
 
@@ -62,22 +113,10 @@
 
 <div align="center">
 
-### 🚀 Build • Automate • Deploy • Monitor
+🚀 **BUILD** &nbsp; • &nbsp; ⚙️ **AUTOMATE** &nbsp; • &nbsp; ☁️ **DEPLOY** &nbsp; • &nbsp; 📊 **MONITOR**
 
-⭐ Thanks for visiting!
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=patilsujata17&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
-<!--
-**patilsujata17/patilsujata17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
